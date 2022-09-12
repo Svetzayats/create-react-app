@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
-  "version": "5.0.1",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "zaya-react-scripts",
+  "version": "0.0.1",
+  "description": "Zaya configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/Svetzayats/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
